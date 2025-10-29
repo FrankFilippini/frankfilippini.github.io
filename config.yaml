@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://frankfilippini.github.io/"
 languageCode: "en-us"
 title: "Francesco Filippini"
 theme: personal-web
